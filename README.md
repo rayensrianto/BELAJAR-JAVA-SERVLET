@@ -15,19 +15,22 @@ Servlet dapat di artikan lebih dari satu, tergantung konteks nya, antara lain:
 - Servlet adalah komponen web yang digunakan pada server untuk membuat halaman web dinamis
 
 
-Web Terminologi
+## Web Terminologi
 
-- What is HTTP ? 
-	~ Sebuah protokol yang menghubungkan antara client dengan server.
-	~ HTTP adalah TCP/IP yang berbasis protokol komunikasi, yang digunakan untuk mengirimkan data seperti gambar, hasil query, file dll di WWW menggunakan port standar TCP yaitu 80. 
-	~ WWW merupakan kumpulan peladen web dari seluruh dunia yang mempunyai kegunaan untuk menyediakan data dan informasi untuk dapat digunakan bersama.
-pict: servlet-http4.png
+### What is HTTP ? 
+Sebuah protokol yang menghubungkan antara client dengan server.
 
-- Karakteristik HTTP
-	~ Protokol yang mengijinkan webserver dan browser saling bertukar data melalui web.
-	~ Protokol yang akan meresponse semua request.
+HTTP adalah TCP/IP yang berbasis protokol komunikasi, yang digunakan untuk mengirimkan data seperti gambar, hasil query, file dll di WWW menggunakan port standar TCP yaitu 80. 
+
+WWW merupakan kumpulan peladen web dari seluruh dunia yang mempunyai kegunaan untuk menyediakan data dan informasi untuk dapat digunakan bersama.
+
+![](https://github.com/rayensrianto/belajar-java-servlet/servlet-http4.png)
+
+Karakteristik HTTP
+- Protokol yang mengijinkan webserver dan browser saling bertukar data melalui web.
+- Protokol yang akan meresponse semua request.
 pict: servlet-http5.png
 
-- HTTP adalah request/response protocol yang berbasis client/server. Dalam web browser, search engine dan yang lain nya berperilaku sebagai HTTP klien dan Web Server seperti servlet berperilaku sebagai server.
+HTTP adalah request/response protocol yang berbasis client/server. Dalam web browser, search engine dan yang lain nya berperilaku sebagai HTTP klien dan Web Server seperti servlet berperilaku sebagai server.
 
 
