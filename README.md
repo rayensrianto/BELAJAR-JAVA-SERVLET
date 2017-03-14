@@ -24,13 +24,12 @@ HTTP adalah TCP/IP yang berbasis protokol komunikasi, yang digunakan untuk mengi
 
 WWW merupakan kumpulan peladen web dari seluruh dunia yang mempunyai kegunaan untuk menyediakan data dan informasi untuk dapat digunakan bersama.
 
-![](https://github.com/rayensrianto/belajar-java-servlet/servlet-http4.png)
+![](https://github.com/rayensrianto/belajar-java-servlet/blob/master/servlet-http4.png)
 
 Karakteristik HTTP
 - Protokol yang mengijinkan webserver dan browser saling bertukar data melalui web.
 - Protokol yang akan meresponse semua request.
-pict: servlet-http5.png
-
+![](https://github.com/rayensrianto/belajar-java-servlet/blob/master/servlet-http5.png)
 HTTP adalah request/response protocol yang berbasis client/server. Dalam web browser, search engine dan yang lain nya berperilaku sebagai HTTP klien dan Web Server seperti servlet berperilaku sebagai server.
 
 
