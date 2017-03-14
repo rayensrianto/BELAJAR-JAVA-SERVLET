@@ -1,18 +1,18 @@
-##Rangkuman Servlet
+# Rangkuman Servlet
 
 
-What is Servlet ?
+## What is Servlet ?
 
-- Servlet adalah teknologi pada java untuk membuat applikasi berbasis web yang berada di sisi server dan menghasil sebuah website yang dinamis.
+Servlet adalah teknologi pada java untuk membuat applikasi berbasis web yang berada di sisi server dan menghasil sebuah website yang dinamis.
 
-- Teknologi servlet itu kuat dan scalable, karena menggunakna bahasa Java. Sebelum servlet, CGI adalah bahasa scripting populer yang digunakan sebagai server side. Tapi katanya banyak kelemahan di bandingkan servlet.
+Teknologi servlet itu kuat dan scalable, karena menggunakna bahasa Java. Sebelum servlet, CGI adalah bahasa scripting populer yang digunakan sebagai server side. Tapi katanya banyak kelemahan di bandingkan servlet.
 
-- Servlet dapat di artikan lebih dari satu, tergantung konteks nya, antara lain:
-	~ Servlet adalah teknologi yang digunakan untuk membangun web application
-	~ Servlet adalah API yang menyediakan banyak interface dan class termasuk dokumentasi.
-	~ Servlet adalah sebuah interface yang harus di implementasikan saat membuat servlet apapun.
-	~ Servlet adalah sebuah class yang memiliki kemampuan server dan me response semua request yang masuk.
-	~ Servlet adalah komponen web yang digunakan pada server untuk membuat halaman web dinamis
+Servlet dapat di artikan lebih dari satu, tergantung konteks nya, antara lain:
+- Servlet adalah teknologi yang digunakan untuk membangun web application
+- Servlet adalah API yang menyediakan banyak interface dan class termasuk dokumentasi.
+- Servlet adalah sebuah interface yang harus di implementasikan saat membuat servlet apapun.
+- Servlet adalah sebuah class yang memiliki kemampuan server dan me response semua request yang masuk.
+- Servlet adalah komponen web yang digunakan pada server untuk membuat halaman web dinamis
 
 
 Web Terminologi
